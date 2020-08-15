@@ -1,0 +1,15 @@
+@import url(./__btn/todo__btn.css);
+@import url(./__text/todo__text.css);
+
+.todo {
+  display: flex;
+  padding: 44px;
+  align-items: center;
+  margin-bottom: 10px;
+  border: 1px solid #6f6f6f;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.todo:last-child {
+  margin-bottom: 0;
+}

@@ -1,0 +1,12 @@
+.todo__btn {
+  width: 23px;
+  height: 23px;
+  margin-right: 30px;
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 0;
+  border: 0;
+}
+.todo__btn:last-child {
+  margin-right: 0;
+}

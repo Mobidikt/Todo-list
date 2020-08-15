@@ -1,0 +1,7 @@
+@import url(./__form/todos__form.css);
+@import url(./__input/todos__input.css);
+@import url(./__list/todos__list.css);
+@import url(./__submit-btn/todos__submit-btn.css);
+.todos {
+  flex-grow: 1;
+}

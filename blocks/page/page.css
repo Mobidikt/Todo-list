@@ -1,0 +1,9 @@
+@import url(./__content/page__content.css);
+.page {
+  background-color: #000000;
+  font-style: normal;
+  font-weight: 900;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
